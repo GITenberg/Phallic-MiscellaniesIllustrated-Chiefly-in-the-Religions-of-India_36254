@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '38166'
     url: http://www.gutenberg.org/2009/agents/38166
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36254#Phallic-MiscellaniesIllustrated-Chiefly-in-the-Religions-of-India
 gutenberg_issued: '2011-05-29'
 gutenberg_type: Text
 identifiers:
